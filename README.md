@@ -34,17 +34,19 @@ I am a passionate **MCA Student** on a mission to evolve from a learner to a hig
 ---
 
 <div align="center">
-  <h3>📊 GitHub Analytics</h3>
+
+# 📊 GitHub Analytics
+
+<img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=Hemanth18-2004&theme=neon&show_icons=true&include_all_commits=true&count_private=true" alt="Hemanth's Stats" />
+<img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Hemanth18-2004&theme=neon&layout=compact&include_all_commits=true" alt="Top Languages" />
+
+<br/>
+
+<img width="500" src="https://streak-stats.demolab.com/?user=Hemanth18-2004&theme=neon" alt="Hemanth's Streak" />
+
+<br/>
+
 </div>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Hemanth18-2004&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true" alt="Hemanth's Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemanth18-2004&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img width="730" src="https://nirzak-streak-stats.vercel.app/?user=Hemanth18-2004&theme=cobalt&hide_border=false" alt="Hemanth's Streak" />
-</p>
 
 ---
 
