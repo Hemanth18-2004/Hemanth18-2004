@@ -37,16 +37,21 @@ I am a passionate **MCA Student** on a mission to evolve from a learner to a hig
 
 # 📊 GitHub Analytics
 
-<img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=Hemanth18-2004&theme=neon&show_icons=true&include_all_commits=true&count_private=true" alt="Hemanth's Stats" />
-<img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Hemanth18-2004&theme=neon&layout=compact&include_all_commits=true" alt="Top Languages" />
-
-<br/>
-
-<img width="500" src="https://streak-stats.demolab.com/?user=Hemanth18-2004&theme=neon" alt="Hemanth's Streak" />
-
-<br/>
-
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" valign="top">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hemanth18-2004&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true&cache_seconds=1800"/>
+      </td>
+      <td width="50%" valign="top">
+         <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hemanth18-2004&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&count_private=true"/>
+      </td>
+    </tr>
+  </table>
+  
+![](https://nirzak-streak-stats.vercel.app/?user=Hemanth18-2004&theme=ambient-gradient&hide_border=false&bg_color=0D1117)<br/>
 </div>
+
 
 ---
 
