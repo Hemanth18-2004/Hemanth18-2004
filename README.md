@@ -1,11 +1,7 @@
 <div align="center">
   <h1>👋 Hi, I'm Hemanth D C</h1>
   <p><strong>MCA Student | Full-Stack Developer | Tech Enthusiast</strong></p>
-
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it.&author=Abraham%20Lincoln" alt="Quote" />
 </div>
-
----
 
 ### 💫 About Me
 I am a passionate **MCA Student** on a mission to evolve from a learner to a high-impact developer. I thrive on building scalable applications, exploring complex databases, and keeping pace with emerging technologies.
@@ -14,8 +10,6 @@ I am a passionate **MCA Student** on a mission to evolve from a learner to a hig
 * 🌱 **Learning:** Advanced Cloud Architecture and Deep Learning.
 * 🧠 **Interests:** Software Architecture, Database Optimization, and AI/ML.
 * 🚀 **Goal:** Building robust solutions that solve real-world problems.
-
----
 
 ### 💻 Tech Stack
 
@@ -49,13 +43,21 @@ I am a passionate **MCA Student** on a mission to evolve from a learner to a hig
     </tr>
   </table>
   
-![](https://nirzak-streak-stats.vercel.app/?user=Hemanth18-2004&theme=ambient-gradient&hide_border=false&bg_color=0D1117)<br/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hemanth18-2004&theme=ambient-gradient&hide_border=true" width="60%" />
+</p>
 </div>
-
 
 ---
 
-### 📫 Connect with me:
+### 📂 Structural Projects
+* **[Python Core Forge](https://github.com/Hemanth18-2004/pythonnew)** – *Exploration of algorithmic logic and data manipulation.*
+* **[Low-Level Fundamentals](https://github.com/Hemanth18-2004/Core-Data-Structures-C)** – *The bedrock of my engineering journey: Data structures in C.*
+
+---
+
+### 📫 Strategic Connection:
+Let's discuss architecture, scalability, or the future of AI.
 <div align="center">
   <a href="mailto:hemanthdc359@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
@@ -65,3 +67,9 @@ I am a passionate **MCA Student** on a mission to evolve from a learner to a hig
   </a>
 </div>
 <br />
+
+---
+
+<p align="center">
+  💎 <b>Forging excellence, one commit at a time.</b> 💎
+</p>
