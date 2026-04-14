@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi, I'm Hemanth D C</h1>
-  <p><strong>MCA Student | Full-Stack Developer | Tech Enthusiast</strong></p>
+  <p><strong>MCA Student | Full-Stack Developer | Tech Enthusiast  | Data Engineering<strong></p>
 </div>
 
 ### 💫 About Me
