@@ -1,13 +1,13 @@
 <div align="center">
   <h1>👋 Hi, I'm Hemanth D C</h1>
-  <p><strong>MCA Student | Full-Stack Developer | Tech Enthusiast  | Data Engineering<strong></p>
+  <p><strong>MCA Student | Full-Stack Developer | Tech Enthusiast  | Software Development Engineer<strong></p>
 </div>
 
 ### 💫 About Me
-I am a passionate **MCA Student** on a mission to evolve from a learner to a high-impact developer. I thrive on building scalable applications, exploring complex databases, and keeping pace with emerging technologies.
+Aspiring Software Development Engineer (SDE) specializing in systems architecture, cloud-native scalability, and high-performance applications. I enjoy solving complex problems ranging from low-level system design to computer vision and financial modeling.
 
 * 🔭 **Currently working on:** Enhancing my Full-Stack development skills.
-* 🌱 **Learning:** Advanced Cloud Architecture and Deep Learning.
+* 🌱 **Learning:** Advanced Cloud Architecture, Deep Learning and Software Development Engineer.
 * 🧠 **Interests:** Software Architecture, Database Optimization, and AI/ML.
 * 🚀 **Goal:** Building robust solutions that solve real-world problems.
 
